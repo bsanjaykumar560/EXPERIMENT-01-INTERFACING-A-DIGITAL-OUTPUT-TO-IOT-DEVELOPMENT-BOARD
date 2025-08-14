@@ -1,4 +1,4 @@
-# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+![IMG-20250814-WA0022 1](https://github.com/user-attachments/assets/ea6f29f5-c277-4334-ad8f-a7888b3c1c16)# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
 **DATE:**
@@ -103,6 +103,11 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ```
 
 ## OUTPUT
+![IMG-20250814-WA0022 1](https://github.com/user-attachments/assets/d3c6f065-3ece-4f07-a629-21b95a4c8df6)
+![WhatsApp Image 2025-08-14 at 15 53 14_273ace2b](https://github.com/user-attachments/assets/a3b9b988-d5e1-44ed-9ab5-f681b6eee39c)
+
+
+
 
 ## Result
 
