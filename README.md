@@ -2,12 +2,13 @@
 
 
 **DATE:**
+14/08/2025
 
-**NAME:**
+**NAME:**B.Sanjay kumar
 
-**ROLL NO:**
+**ROLL NO:**212223220095
 
-**DEPARTMENT:**
+**DEPARTMENT:**BTECH.IT
 
 ## Aim
 
